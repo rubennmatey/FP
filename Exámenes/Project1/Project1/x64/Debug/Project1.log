@@ -1,0 +1,7 @@
+﻿  Source1.cpp
+E:\UNIVERSIDAD\FP1\Project1\Project1\Source1.cpp(15,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tLibro' cuando no hay ninguna variable declarada
+E:\UNIVERSIDAD\FP1\Project1\Project1\Source1.cpp(22,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tListaLibros' cuando no hay ninguna variable declarada
+E:\UNIVERSIDAD\FP1\Project1\Project1\Source1.cpp(29,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tEstanteria' cuando no hay ninguna variable declarada
+E:\UNIVERSIDAD\FP1\Project1\Project1\Source1.cpp(36,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tBiblioteca' cuando no hay ninguna variable declarada
+Source1.obj : error LNK2005: ya se definió main en Source.obj
+E:\UNIVERSIDAD\FP1\Project1\x64\Debug\Project1.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente

@@ -1,0 +1,6 @@
+﻿  enero_2020.cpp
+E:\UNIVERSIDAD\FP1\Examen Enero 2020\Examen Enero 2020\enero_2020.cpp(15,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tLibro' cuando no hay ninguna variable declarada
+E:\UNIVERSIDAD\FP1\Examen Enero 2020\Examen Enero 2020\enero_2020.cpp(22,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tListaLibros' cuando no hay ninguna variable declarada
+E:\UNIVERSIDAD\FP1\Examen Enero 2020\Examen Enero 2020\enero_2020.cpp(29,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tEstanteria' cuando no hay ninguna variable declarada
+E:\UNIVERSIDAD\FP1\Examen Enero 2020\Examen Enero 2020\enero_2020.cpp(36,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tBiblioteca' cuando no hay ninguna variable declarada
+  Examen Enero 2020.vcxproj -> E:\UNIVERSIDAD\FP1\Examen Enero 2020\x64\Debug\Examen Enero 2020.exe

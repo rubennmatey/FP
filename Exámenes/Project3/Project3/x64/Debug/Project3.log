@@ -1,0 +1,5 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: símbolo externo "void __cdecl mostrarOfertasEnPresupuesto(struct tListaOfertas const &,double)" (?mostrarOfertasEnPresupuesto@@YAXAEBUtListaOfertas@@N@Z) sin resolver al que se hace referencia en la función main
+    Sugerencia sobre los símbolos definidos que podrían coincidir:
+      "void __cdecl mostrarOfertasEnPresupuesto(struct tListaOfertas &,double)" (?mostrarOfertasEnPresupuesto@@YAXAEAUtListaOfertas@@N@Z)
+E:\UNIVERSIDAD\FP1\Project3\x64\Debug\Project3.exe : fatal error LNK1120: 1 externos sin resolver

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\UNIVERSIDAD\FP1\Project5\Project5\Source.cpp(4,1): warning C4005: 'INT_MAX': redefinición de macro
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\limits.h(36,1): message : vea la definición anterior de 'INT_MAX'
+  Project5.vcxproj -> E:\UNIVERSIDAD\FP1\Project5\x64\Debug\Project5.exe

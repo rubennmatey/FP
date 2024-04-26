@@ -1,0 +1,13 @@
+A-6 70 80 2 nieve obras
+A-5 10 15 1 intransitable
+A-5 45 55 3 precaucion niebla obras
+A-5 70 80 2 niebla obras
+A-1 10 50 1 precaucion
+A-2 10 13 2 obras precaucion
+A-3 15 25 1 hielo
+A-4 50 100 1 intransitable
+A-3 5 10 2 niebla obras
+M-601 4 14 2 obras precaucion
+M-541 1 20 1 lluviaIntensa
+M-612 1 7 2 hielo niebla
+XXX

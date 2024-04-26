@@ -1,0 +1,7 @@
+Aventador 10 700000 0
+A4 5 40000 1
+Leon 4 30000 1
+Exeo 0 25000 0
+Leon 3 20000 0
+Picasso 1 25000 1
+XXX

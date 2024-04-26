@@ -1,0 +1,9 @@
+﻿  Source.cpp
+E:\UNIVERSIDAD\FP1\Project2\Project2\Source.cpp(112,25): warning C4566: el carácter representado por el nombre de carácter universal '\uFFFD' no se puede representar en la página de códigos actual (1252)
+E:\UNIVERSIDAD\FP1\Project2\Project2\Source.cpp(125,29): warning C4566: el carácter representado por el nombre de carácter universal '\uFFFD' no se puede representar en la página de códigos actual (1252)
+E:\UNIVERSIDAD\FP1\Project2\Project2\Source.cpp(100,9): warning C4101: 'hospital': variable local sin referencia
+E:\UNIVERSIDAD\FP1\Project2\Project2\Source.cpp(92,25): warning C4101: 'puestoEnFila': variable local sin referencia
+E:\UNIVERSIDAD\FP1\Project2\Project2\Source.cpp(92,9): warning C4101: 'indiceHospital': variable local sin referencia
+E:\UNIVERSIDAD\FP1\Project2\Project2\Source.cpp(91,10): warning C4101: 'turno': variable local sin referencia
+E:\UNIVERSIDAD\FP1\Project2\Project2\Source.cpp(148,9): warning C4101: 'puesto': variable local sin referencia
+  Project2.vcxproj -> E:\UNIVERSIDAD\FP1\Project2\x64\Debug\Project2.exe
